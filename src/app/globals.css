@@ -1,11 +1,15 @@
 @import "tailwindcss";
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap");
 
 
 body {
-  background-color: white;
+  background-color: #e5e5e5;
+  font-family: 'Montserrat';
+  margin: 0;
+  padding: 0;
   width: 100%;
-  font-family: 'Montserrat'
+  justify-items: center;
 }
 
 :root {
