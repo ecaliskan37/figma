@@ -4,15 +4,13 @@ const Login3 = () => {
     return (
         <div className="box-content inset-6 border-[#FFFFFF] bg-[#FFFFFF] m-0 p-0 w-[1440px] h-[878px] flex">
             <div className="flex 1 w-[586px] bg-[#1AEBB7] h-[878px]">
-                <div className="box-border border border-solid border-l-[#FFFFFF] border-t-[#FFFFFF]
-                                border-r-[#1AEBB7]
-                                border-b-[#FFFFFF]
+                <div className="box-border border border-solid border-[#1AEBB7]
                                 flex  mt-[69px] ml-[95px] 
                                 shadow-[0_0_20px_0_#B0AAAA]  w-[500px] h-[740px] justify-center items-center">
                     <img src="/Arslan.png" className='w-[500px] h-[500px] mt-[195px] ml-[93px] mb-[193px] mr-[93px]' />
                 </div>
             </div>
-            <div className="flex 1 w-[874px] bg-[#FFFFFF] h-[878px]">
+            <div className="flex 1 w-[854px] bg-[#FFFFFF] h-[878px]">
                 <div className="box-border border border-solid border-t-[#FFFFFF] border-r-[#FFFFFF]
                                 border-l-[#1AEBB7]
                                 border-b-[#FFFFFF]
