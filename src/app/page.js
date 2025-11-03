@@ -1,6 +1,6 @@
-import Login4 from './components/Login4'
+import Login3 from './components/Login3'
 
 export default function Home() {
   return (
-    <Login4 />)
+    <Login3 />)
 }
