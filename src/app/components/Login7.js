@@ -7,16 +7,16 @@ const Login7 = () => {
             <div className='relative w-[1568px] h-[1180px]'>
                 <img src="/round.png" className='absolute w-[300px] h-[300px] top-[90px] left-[300px] border-opacity-5 ' />
             </div >
-            <div className='relative flex flex-col gap-3 w-[485px] h-[340px] bg-[#FFFFFF33]
-               ml-[500px] top-[-930px] rounded-[50px] pl-15 pr-5  shadow-[inset_0px_0px_0px_0px_#8A8A8A]'>
-                <h1 className='text-[#FFFFFFCC] font-bold text-[40px] w-[200px] h-[51px] ml-[100px] flex justify-center'>LOGIN</h1>
-                <input className='w-[375px] h-[33px] text-[20px] pl-[23px] ml-4.5 text-[#FFFFFFD6]
-                border-[#000000D6] border-solid border mt-5'
+            <div className='relative flex flex-col justify-center items-center gap-3 w-[510px] h-[400px] bg-[#FFFFFF33]
+               ml-[500px] top-[-960px] rounded-[50px] shadow-[inset_0px_0px_0px_0px_#8A8A8A]'>
+                <h1 className='text-[#FFFFFFCC] font-bold text-[40px] w-[400px] h-[51px] flex justify-center'>LOGIN</h1>
+                <input className='w-[375px] h-[33px] text-[15px] pl-[23px] ml-4.5 text-[#FFFFFFD1]
+                border-[grey] bg-[#FFFFFF33] border-solid border mt-5'
                     placeholder='Username' />
-                <input className='w-[375px] h-[33px] text-[20px] mt-[30px]  ml-4.5 pl-[23px] text-[#FFFFFFD6]
-                border-[#000000D6] border-solid border'
+                <input className='w-[375px] h-[33px] text-[15px] mt-[30px]  ml-4.5 pl-[23px] text-[#FFFFFFD6]
+                border-[grey] bg-[#FFFFFF33] border-solid border'
                     placeholder='Password' />
-                <div className='flex justify-between w-[375px] pl-5px pr-5px mt-10 ml-4.5 '>
+                <div className='flex justify-between w-[375px] mt-6 ml-4.5'>
                     <button className='bg-[#1112129E] w-[150px] h-10 text-[20px] text-[#FFFFFF80] font-bold border-[#000000B2] border-solid'>
                         LOGIN</button>
                     <div className='font-semibold text-[15px] text-[#FFFFFFB2]'>
