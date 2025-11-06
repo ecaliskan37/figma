@@ -5,12 +5,13 @@
 
 
 body {
-  /* background-color: #FFFFFFE5; */
+  background-color: grey;
   font-family: 'Montserrat';
   margin: 0;
   padding: 0;
   width: 100%;
   justify-items: center;
+  justify-content: center;
   margin-top: 20px;
   margin-bottom: 20px;
 }

@@ -1,6 +1,6 @@
-import Login7 from './components/Login7'
+import Login8 from './components/Login8'
 
 export default function Home() {
   return (
-    <Login7 />)
+    <Login8 />)
 }
